@@ -183,6 +183,7 @@
 - `Core/`：主程序、启动文件、外设初始化
 - `Device/STS3215/`：FEETECH STS3215 协议与控制相关代码
 - `Drivers/`：STM32 HAL 底层驱动
+- `FEETECH_FTServo_Routine/`：FEETECH FTServo STM32HAL 参考例程
 - `MDK-ARM/`：Keil 工程文件
 
 ## 说明
