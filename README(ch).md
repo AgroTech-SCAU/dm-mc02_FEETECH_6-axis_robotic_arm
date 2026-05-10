@@ -183,6 +183,7 @@ You can think of these definitions as the servo's internal register address map.
 - Core/ - main program, startup files, and peripheral initialization
 - Device/STS3215/ - FEETECH STS3215 protocol and control code
 - Drivers/ - STM32 HAL low-level drivers
+- FEETECH_FTServo_Routine/ - FEETECH FTServo STM32HAL reference routines
 - MDK-ARM/ - Keil project files
 
 ## Notes
